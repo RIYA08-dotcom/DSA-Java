@@ -1,4 +1,8 @@
 //leetcode 169-Majority element
+//Tme Complexity-O(n)
+//Space Complexity-O(1)
+//Approach-Boyre-Moore Voting Algorithm
+
 class Solution {
     public int majorityElement(int[] nums) {
         int candidate=0;
