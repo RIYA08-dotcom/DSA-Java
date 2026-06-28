@@ -2,6 +2,7 @@
 //Time Complexity-0(n)
 //Space complexity-O(1)
 //Approach- A current element and its previous one  is comapered if they are same then it will be only taken once and then moves to next element 
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         int j=1;
