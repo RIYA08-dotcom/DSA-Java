@@ -1,5 +1,5 @@
 /*
-Leetcode 43-Set Matrix Zero
+Leetcode 73-Set Matrix Zeroes
 Time Complexity-O(n^2)
 Space Complexity-O(n)
 Approach-
